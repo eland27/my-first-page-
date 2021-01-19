@@ -1,0 +1,54 @@
+body {
+
+    margin-left: 0;
+    margin-right: 0;
+    font-size: 22px;
+    display: flex;
+}
+
+.c1, .c2 {
+    min-height: 50%;
+}
+
+.header {
+    width: 100vw;
+}
+
+.main {
+    width: 900px;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 2px solid lightgray;
+}
+
+.content {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    height: 98%;
+}
+
+.nav {
+    max-width: 932px;
+}
+
+.contenedor-footer {
+    max-width: 932px;;
+}
+
+.menu-options-group {
+    margin-right: 20px;
+    width: 50%;
+}
+
+.sidebar {
+    height: 98%;
+}
+
+.footer-option3 {
+    width: 33%;
+}
+
+.footer-item-3 {
+    margin-left: 130px;
+}
